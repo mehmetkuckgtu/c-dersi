@@ -1,2 +1,2 @@
 # pointerdeneme
-mehmetkucuk.com.tr ya pointer üzerine yazımda kullanılmıştır.
+mehmetkucuk.com.tr de c dersi için dersi anlamak amaçlı kodların yazımı.
