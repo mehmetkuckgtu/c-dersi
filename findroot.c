@@ -1,12 +1,4 @@
 /*
-* Mehmet KÜÇÜK
-* kodumuz  bisection method yapýyoruz. 
-* fonksiyonun bir kokunu buluyoruz. 
-* Bir fonsiyonu parametre olarak nasil kullanilir
-*anlama amaçlý yazýnlan kod
-*/
-
-/*
 2. * Finds roots of the equations
 3. * g(x) = 0 and h(x) = 0
 4. * on a specified interval [x_left, x_right] using the bisection method.
