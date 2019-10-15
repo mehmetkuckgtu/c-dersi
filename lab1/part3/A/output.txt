@@ -1,0 +1,3 @@
+deger1=5
+deger2=2
+deger3=1
