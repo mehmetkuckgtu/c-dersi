@@ -1,1 +1,1 @@
-ikincisi
+birincisi
