@@ -1,10 +1,10 @@
 /************************************************************
-*kodu oluşturan: Mehmet KUCUK	
-*lab 5 müsterimizin ilk başta cebindeki parayı ogrenilecek
-*bir menu verilecek.indirim de hesaba katılacak. Yemeklerin
-*kac kalori oldugu bilgisi,secimlerine göre ne kadar para 
-*kaldıgı kaç kalori yemek aldigi gosterilecek.
-*NOT indirimli hali eklemedim.
+*kodu oluÅŸturan: Mehmet KUCUK	
+*lab 5 mÃ¼sterimizin ilk baÅŸta cebindeki parayÄ± ogrenilecek
+*bir menu verilecek.indirim de hesaba katÄ±lacak. Yemeklerin
+*kac kalori oldugu bilgisi,secimlerine gÃ¶re ne kadar para 
+*kaldÄ±gÄ± kaÃ§ kalori yemek aldigi gosterilecek.
+*NOT indirimli halini eklemedim.
 *************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
