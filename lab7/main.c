@@ -1,6 +1,6 @@
 /*********************************
  *kodu olusturan:Mehmet KUCUK 
- LAB 7 de istenilenler yapilmistir
+ LAB 7 de bonus haric istenilenler yapilmistir
  *********************************/
 #include <stdio.h>
 #include <stdlib.h>
